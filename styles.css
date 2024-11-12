@@ -219,6 +219,14 @@ footer {
     margin: 0 10px;
 }
 
+/* Highlighted Game Title */
+.game-title {
+    color: #ffcc00;
+    text-shadow: 0 0 3px #ffff00;
+    font-weight: bold;
+}
+
+
 .social-media img {
     width: 24px;
     image-rendering: pixelated;
